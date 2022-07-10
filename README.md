@@ -1,5 +1,5 @@
 
- # <img src = "  ./public/icons/icon-72x72.png"> My Budget Tracker<img src = "  ./public/icons/icon-72x72.png">
+ # <img src = "./public/icons/icon-72x72.png"> My Budget Tracker<img src = "  ./public/icons/icon-72x72.png">
 
   ![Open Issues](https://img.shields.io/github/issues-raw/wizzle13/my-budget-tracker?style=plastic)
   ![Last Commit](https://img.shields.io/github/last-commit/wizzle13/my-budget-tracker?style=plastic)
